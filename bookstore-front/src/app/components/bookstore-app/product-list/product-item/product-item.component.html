@@ -1,0 +1,19 @@
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="{{ book.image }}" alt="{{book.title}}" class="img-fluid rounded-start">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{ book.title }}</h5>
+        <p class="card-text">{{ book.subtitle }}</p>
+        <p class="card-text"><small class="text-muted">isbn13: {{book.isbn13 }}</small></p>
+        <h3 class="card-text">{{ book.price | brl }}</h3>
+        <div class="btn-group" role="group">
+          <a class="btn btn-outline-secondary" href="#">Details</a>
+          <a class="btn btn-success" href="{{ book.url }}">Buy</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
