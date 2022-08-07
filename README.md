@@ -13,3 +13,9 @@
 <ul>
 <li><a href="https://github.com/helciocandido/dio-desafios-projetos/tree/main/bookstore-front">BookStore Front com Angular e Bootstrap</li>
 </ul>
+
+### Módulo IV
+
+<ul>
+<li><a href="https://github.com/helciocandido/dio-desafios-projetos/tree/main/BancoDigitalDio">Banco Digital com Java</li>
+</ul>
