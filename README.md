@@ -19,3 +19,14 @@
 <ul>
 <li><a href="https://github.com/helciocandido/dio-desafios-projetos/tree/main/BancoDigitalDio">Banco Digital com Java</li>
 </ul>
+
+### Módulo V
+
+<ul>
+  <li>
+    <a href="https://github.com/helciocandido/dio-desafios-projetos/tree/main/lab-padroes-projeto-java">Padrões de projeto com Java</a>
+  </li>
+  <li>
+    <a href="https://github.com/helciocandido/dio-desafios-projetos/tree/main/lab-padroes-projeto-spring">Padrões de projeto com Spring</a>
+  </li>
+</ul>
